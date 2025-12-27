@@ -17,7 +17,7 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
+            "database_name": "navigation-db",
             "database_id": "f21e29e0-0807-4e68-99e7-8e5b7ea44f79"
         }
     ],
@@ -25,6 +25,6 @@
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "Allen",
         "AUTH_PASSWORD": "Allen",
-        "AUTH_SECRET": "Allen"
+        "AUTH_SECRET": "fOANdjxvgPvpjeHFmCi6"
     }
 }
